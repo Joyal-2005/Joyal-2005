@@ -23,6 +23,7 @@ My expertise spans across:
 ✦ IoT & Embedded Systems  
 ✦ Database Architecture & Optimization
 ✦ System Design & Implementation
+✦ ServiceNow Development & Administration
 ```
 
 **What sets me apart:**
@@ -30,6 +31,7 @@ My expertise spans across:
 - 🔌 Seamless integration of hardware, sensors, and intelligent backends
 - 💾 Enterprise-grade database design with proven optimization techniques
 - 🎯 Focus on solving real-world problems with scalable, maintainable code
+- 🏢 ServiceNow platform expertise with CSA and CAD certifications
 
 ---
 
@@ -61,19 +63,55 @@ My expertise spans across:
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-IoT-00D1B2?style=for-the-badge)
 
+### 🏢 Enterprise & Cloud
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00A699?style=for-the-badge&logo=servicenow&logoColor=white)
+![ITSM](https://img.shields.io/badge/ITSM-Configuration-FF6B6B?style=for-the-badge)
+
 ### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## ⭐ Flagship Projects
+## 🎓 Certifications & Achievements
 
 <div align="center">
+
+| 🏆 Certification | 📅 Status | 💡 Description |
+|:---:|:---:|:---|
+| **ServiceNow CSA** | ✅ Certified | Certified System Administrator - Expert in ServiceNow platform administration and configuration |
+| **ServiceNow CAD** | ✅ Certified | Certified Application Developer - Proficient in ServiceNow application development and customization |
+
+</div>
+
+---
+
+## ⭐ Featured Projects
+
+<div align="center">
+
+### 🚌 Bus Booking Application
+**Full-Stack Reservation Platform**
+
+| | |
+|---|---|
+| **Concept** | End-to-end bus ticket booking system |
+| **Innovation** | Intuitive UI with responsive design |
+| **Impact** | Seamless user experience across all devices |
+| **Tech Stack** | `HTML5` `CSS3` `JavaScript` `Responsive Design` |
+
+**Experience:**
+- 🎫 Intuitive ticket search and reservation
+- 📱 Fully responsive across all screen sizes
+- ✨ Modern, user-friendly interface
+- ⚡ Fast and efficient booking workflow
+
+[🔗 View Repository](https://github.com/Joyal-2005/Bus_Booking_App)
+
+---
 
 ### 🔒 Advanced Anti-Thefting Fuel System
 **Next-Gen IoT Solution for Vehicle Security**
@@ -113,26 +151,6 @@ My expertise spans across:
 - 📈 Comprehensive reporting and analytics capabilities
 
 [🔗 View Repository](https://github.com/Joyal-2005/PHARMACY-DATABASE-MANAGEMENT-SYSTEM) | [📋 Database Schema](#)
-
----
-
-### 🚌 Bus Booking Application
-**Full-Stack Reservation Platform**
-
-| | |
-|---|---|
-| **Concept** | End-to-end bus ticket booking system |
-| **Innovation** | Intuitive UI with responsive design |
-| **Impact** | Seamless user experience across all devices |
-| **Tech Stack** | `HTML5` `CSS3` `JavaScript` `Responsive Design` |
-
-**Experience:**
-- 🎫 Intuitive ticket search and reservation
-- 📱 Fully responsive across all screen sizes
-- ✨ Modern, user-friendly interface
-- ⚡ Fast and efficient booking workflow
-
-[🔗 View Repository](https://github.com/Joyal-2005/Bus_Booking_App)
 
 ---
 
@@ -176,6 +194,17 @@ Comprehensive solution for managing student records, academic information, and i
 
 [🔗 View Repository](https://github.com/Joyal-2005/Student-Management-System)
 
+---
+
+### 🔄 Automated Network Request Management - ServiceNow
+**Enterprise IT Service Management Solution**
+
+Automated workflow system for managing network requests within the ServiceNow platform.
+
+**Technologies:** `ServiceNow` `ITSM` `Workflow Automation` `Business Rules`
+
+[🔗 View Repository](https://github.com/Joyal-2005/Automated-Network-Request-Management---Servicenow)
+
 </div>
 
 ---
@@ -204,6 +233,7 @@ Comprehensive solution for managing student records, academic information, and i
 | **⚙️ Backend Development** | RESTful API design, server-side logic, data processing, system scalability |
 | **🎨 Frontend Development** | Responsive UI/UX design, Bootstrap frameworks, cross-device compatibility |
 | **🔧 System Design** | Scalable architecture, problem-solving methodology, technical implementation strategy |
+| **🏢 ServiceNow ITSM** | Platform administration, application development, workflow automation, enterprise solutions |
 
 </div>
 
@@ -217,7 +247,8 @@ Comprehensive solution for managing student records, academic information, and i
 🔨 Building                              📚 Learning                          💡 Passionate About
 ├─ Scalable backend systems              ├─ Advanced Node.js patterns        ├─ IoT innovation
 ├─ IoT solutions                         ├─ Database optimization            ├─ Real-world problem solving
-├─ Responsive web apps                  ├─ Modern frameworks                ├─ Clean architecture
+├─ Responsive web apps                  ├─ ServiceNow enhancements          ├─ Enterprise solutions
+├─ Enterprise solutions                 ├─ Modern frameworks                ├─ Clean architecture
 └─ Intelligent systems                  └─ Cloud technologies               └─ Mentoring others
 ```
 
@@ -233,8 +264,8 @@ Comprehensive solution for managing student records, academic information, and i
 |:---:|:---:|:---:|:---:|
 | **Professional** | **Innovative** | **Focused** | **Creative** |
 | Delivers production-ready code | Brings fresh ideas to problems | Committed to excellence | Thinks outside the box |
-| Strong foundation in best practices | Stays current with tech | Attention to detail | Solves complex challenges |
-| Proven track record | Explores cutting-edge solutions | Goal-oriented approach | Unique perspectives |
+| Strong foundation in best practices | Explores cutting-edge solutions | Attention to detail | Solves complex challenges |
+| Proven track record | Certified expertise | Goal-oriented approach | Unique perspectives |
 
 </div>
 
@@ -246,9 +277,10 @@ Comprehensive solution for managing student records, academic information, and i
 
 ### Open to Exciting Opportunities:
 
-- 🔧 **Freelance Projects** – Full-stack, IoT, or database work
+- 🔧 **Freelance Projects** – Full-stack, IoT, ServiceNow, or database work
 - 🤝 **Collaborations** – Open-source or innovative ideas
 - 💬 **Technical Discussions** – Architecture, design, best practices
+- 🏢 **Enterprise Solutions** – ServiceNow implementations and customizations
 - 🎓 **Mentoring** – Sharing knowledge with aspiring developers
 - 📞 **Consulting** – System design and technical guidance
 
@@ -256,7 +288,7 @@ Comprehensive solution for managing student records, academic information, and i
 
 **GitHub:** [github.com/Joyal-2005](https://github.com/Joyal-2005)  
 **Email:** [joyalaugustin17@gmail.com](mailto:joyalaugustin17@gmail.com)  
-**Open to:** Partnership, collaboration, technical discussions  
+**Open to:** Partnership, collaboration, technical discussions, enterprise projects  
 
 </div>
 
@@ -264,7 +296,7 @@ Comprehensive solution for managing student records, academic information, and i
 
 ## 📝 Latest Projects & Updates
 
-> Check out my repositories for the latest projects, code samples, and technical implementations. Each project includes detailed documentation and demonstrates best practices in software architecture.
+> Check out my repositories for the latest projects, code samples, and technical implementations. Each project includes detailed documentation and demonstrates best practices in software architecture and enterprise solutions.
 
 ---
 
