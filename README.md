@@ -1,186 +1,283 @@
-# Joyal – Developer & IoT Engineer
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Joyal-2005&color=0e75b6&style=flat)](https://github.com/Joyal-2005)
-
----
-
-## 🚀 About Me
-
-Full-stack developer passionate about building intelligent solutions that solve real-world problems. I specialize in creating scalable applications, IoT systems, and database-driven platforms. With a strong foundation in software engineering and embedded systems, I focus on creating solutions that bridge hardware and software seamlessly.
-
-**What I do:**
-- 🛠️ Design and develop full-stack web applications
-- 📱 Build IoT and embedded systems solutions  
-- 💾 Engineer robust database systems and APIs
-- 🔌 Connect hardware, sensors, and real-time data streams to intelligent backends
-- 🎯 Transform complex problems into elegant, maintainable code
-
-**Current Focus:**
-- Building scalable backend systems with Node.js and Express
-- Developing IoT solutions with embedded systems
-- Creating modern, responsive user interfaces
-- Database optimization and system architecture
-
----
-
-## 💻 Tech Stack
-
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>JavaScript, HTML5, CSS3, C/C++, SQL</td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>HTML5, CSS3, Bootstrap, Responsive Design</td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>Node.js, Express.js</td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>MySQL, SQL Query Optimization</td>
-  </tr>
-  <tr>
-    <td><strong>IoT & Embedded</strong></td>
-    <td>Arduino, GSM Modules, Sensors, Microcontrollers</td>
-  </tr>
-  <tr>
-    <td><strong>Tools & Platforms</strong></td>
-    <td>Git, GitHub, Linux, Visual Studio Code</td>
-  </tr>
-  <tr>
-    <td><strong>Specializations</strong></td>
-    <td>Full-Stack Development, IoT Solutions, Database Design, System Architecture</td>
-  </tr>
-</table>
-
----
-
-## ⭐ Featured Projects
-
-### 🔒 Advanced Anti-Thefting Fuel System
-**Intelligent IoT solution for vehicle fuel theft detection**
-
-Cutting-edge embedded system that monitors fuel levels in real-time and sends instant SMS alerts when unauthorized fuel theft is detected.
-
-**Key Features:**
-- Real-time fuel level monitoring via analog sensors
-- Intelligent theft detection algorithm
-- Automated SMS alerts via GSM module
-- State tracking and historical comparison
-
-**Technologies:** Arduino, GSM Module, Embedded C, Sensors
-**Repository:** [View on GitHub](https://github.com/Joyal-2005/ADVANCED-ANTI-THEFTING-FUEL-SYSTEM)
-
----
-
-### 💊 Pharmacy Database Management System  
-**Enterprise-grade database solution for pharmacy operations**
-
-Comprehensive database system designed to streamline all aspects of pharmacy management, from supplier coordination to customer sales tracking.
-
-**Key Features:**
-- Medicine inventory management with expiry tracking
-- Supplier and customer relationship management
-- Automated purchase and sales transaction processing
-- Smart triggers for real-time stock updates
-- Comprehensive reporting and analytics
-
-**Technologies:** MySQL, Database Design, SQL Triggers, Relational Architecture
-**Repository:** [View on GitHub](https://github.com/Joyal-2005/PHARMACY-DATABASE-MANAGEMENT-SYSTEM)
-
----
-
-### 🚌 Bus Booking Application
-**Full-stack web application for seamless bus ticket reservations**
-
-Complete booking platform providing an intuitive interface for users to search, browse, and reserve bus tickets.
-
-**Technologies:** HTML5, CSS3, JavaScript, Responsive Design
-**Repository:** [View on GitHub](https://github.com/Joyal-2005/Bus_Booking_App)
-
----
-
-### 🥛 Milk Collection Center
-**Management system for dairy milk collection operations**
-
-Specialized application for tracking and managing milk collection from suppliers and distribution to customers.
-
-**Technologies:** JavaScript, Express.js, HTML5, CSS3
-**Repository:** [View on GitHub](https://github.com/Joyal-2005/Milk-Collection-Center)
-
----
-
-### 📚 Library Management System
-**Digital library system for book inventory and member management**
-
-End-to-end library solution handling book cataloging, member registration, and lending operations.
-
-**Technologies:** JavaScript, Database Design
-**Repository:** [View on GitHub](https://github.com/Joyal-2005/library-management-system)
-
----
-
-### 👥 Student Management System
-**Comprehensive educational institution management platform**
-
-System for managing student records, academic information, and institutional operations.
-
-**Technologies:** Database Design, System Architecture
-**Repository:** [View on GitHub](https://github.com/Joyal-2005/Student-Management-System)
-
----
-
-## 📊 GitHub Analytics
-
+# 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joyal-2005&theme=transparent&hide_border=true&show_icons=true)
+# 👋 JOYAL – Full-Stack Developer & IoT Engineer
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joyal-2005&theme=transparent&hide_border=true&layout=compact)
+### *Building Intelligent Solutions for Real-World Problems*
+
+[![GitHub followers](https://img.shields.io/github/followers/Joyal-2005?label=Follow&style=social)](https://github.com/Joyal-2005)
+[![Profile Views](https://komarev.com/ghpvc/?username=Joyal-2005&color=0e75b6&style=flat-square)](https://github.com/Joyal-2005)
 
 </div>
 
 ---
 
-## 🎓 Areas of Expertise
+## 🎯 Who Am I?
 
-| Expertise | Details |
-|-----------|---------|
-| **Full-Stack Development** | End-to-end web application development from database design to user interface |
-| **IoT & Embedded Systems** | Hardware integration, sensor management, real-time data processing |
-| **Database Architecture** | Relational database design, SQL optimization, data integrity, triggers & stored procedures |
-| **Backend Development** | RESTful API design, server-side logic, data management |
-| **Frontend Development** | Responsive UI design, modern web interfaces, Bootstrap frameworks |
-| **System Design** | Scalable architecture, problem-solving, technical implementation |
+```
+I am a passionate full-stack developer and IoT engineer who transforms 
+complex technical challenges into elegant, scalable solutions.
+
+My expertise spans across:
+✦ Web Applications & Backend Systems
+✦ IoT & Embedded Systems  
+✦ Database Architecture & Optimization
+✦ System Design & Implementation
+```
+
+**What sets me apart:**
+- 🚀 End-to-end solution development from concept to deployment
+- 🔌 Seamless integration of hardware, sensors, and intelligent backends
+- 💾 Enterprise-grade database design with proven optimization techniques
+- 🎯 Focus on solving real-world problems with scalable, maintainable code
 
 ---
 
-## 🔗 Connect With Me
+## 💻 Technology Arsenal
 
-- 💼 **GitHub:** [github.com/Joyal-2005](https://github.com/Joyal-2005)
-- 📧 **Email:** [Available in profile]
-- 💭 **Open to:** Collaboration, project contributions, technical discussions, freelance opportunities
+<div align="center">
+
+### 📝 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 🎨 Frontend
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-00BFFF?style=for-the-badge)
+
+### ⚙️ Backend & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 💾 Databases & Data
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Database Design](https://img.shields.io/badge/DB%20Design-Query%20Optimization-FF6B6B?style=for-the-badge)
+
+### 🔌 IoT & Embedded Systems
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-IoT-00D1B2?style=for-the-badge)
+
+### 🛠️ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-## 🌟 Let's Build Together
+## ⭐ Flagship Projects
 
-I'm always excited about:
-- Interesting technical challenges
-- IoT and embedded systems projects  
-- Full-stack development opportunities
-- Mentoring and knowledge sharing
-- Open-source contributions
+<div align="center">
 
-Feel free to explore my repositories, fork projects, and reach out for collaboration. Let's create something amazing together!
+### 🔒 Advanced Anti-Thefting Fuel System
+**Next-Gen IoT Solution for Vehicle Security**
+
+| | |
+|---|---|
+| **Concept** | Real-time fuel theft detection with automated alerts |
+| **Innovation** | Smart sensor monitoring + GSM communication |
+| **Impact** | Prevents unauthorized fuel theft with instant notifications |
+| **Tech Stack** | `Arduino` `GSM Module` `Embedded C` `Sensors` `Real-time Processing` |
+
+**Key Capabilities:**
+- ⚡ Real-time fuel level monitoring via analog sensors
+- 🎯 Intelligent theft detection algorithm with state tracking
+- 📱 Automated SMS alerts to vehicle owner via GSM module
+- 📊 Historical fuel level comparison for accuracy
+
+[🔗 View Repository](https://github.com/Joyal-2005/ADVANCED-ANTI-THEFTING-FUEL-SYSTEM) | [📋 Full Details](#)
+
+---
+
+### 💊 Pharmacy Database Management System
+**Enterprise Pharmacy Operations Platform**
+
+| | |
+|---|---|
+| **Concept** | Complete pharmacy management from supply chain to customer sales |
+| **Innovation** | Smart triggers for automated stock management |
+| **Impact** | Streamlines operations and ensures inventory accuracy |
+| **Tech Stack** | `MySQL` `Database Design` `SQL Triggers` `Relational Architecture` |
+
+**Key Features:**
+- 💊 Medicine inventory with expiry date tracking
+- 🤝 Supplier and customer relationship management
+- 🛒 Automated purchase and sales transaction processing
+- ⚙️ Smart SQL triggers for real-time stock updates
+- 📈 Comprehensive reporting and analytics capabilities
+
+[🔗 View Repository](https://github.com/Joyal-2005/PHARMACY-DATABASE-MANAGEMENT-SYSTEM) | [📋 Database Schema](#)
+
+---
+
+### 🚌 Bus Booking Application
+**Full-Stack Reservation Platform**
+
+| | |
+|---|---|
+| **Concept** | End-to-end bus ticket booking system |
+| **Innovation** | Intuitive UI with responsive design |
+| **Impact** | Seamless user experience across all devices |
+| **Tech Stack** | `HTML5` `CSS3` `JavaScript` `Responsive Design` |
+
+**Experience:**
+- 🎫 Intuitive ticket search and reservation
+- 📱 Fully responsive across all screen sizes
+- ✨ Modern, user-friendly interface
+- ⚡ Fast and efficient booking workflow
+
+[🔗 View Repository](https://github.com/Joyal-2005/Bus_Booking_App)
+
+---
+
+### 🥛 Milk Collection Center
+**Dairy Operations Management System**
+
+| | |
+|---|---|
+| **Concept** | Specialized system for milk collection and distribution |
+| **Innovation** | Full-stack solution for supplier & customer management |
+| **Impact** | Streamlines dairy supply chain operations |
+| **Tech Stack** | `JavaScript` `Express.js` `HTML5` `CSS3` `Database Integration` |
+
+**Capabilities:**
+- 📊 Real-time collection tracking
+- 🤝 Supplier and distributor management
+- 💰 Transaction and payment processing
+- 📈 Analytics and reporting
+
+[🔗 View Repository](https://github.com/Joyal-2005/Milk-Collection-Center)
+
+---
+
+### 📚 Library Management System
+**Digital Library Operations Hub**
+
+Complete system for library operations including cataloging, member management, and lending workflows.
+
+**Technologies:** `JavaScript` `Database Design` `System Architecture`
+
+[🔗 View Repository](https://github.com/Joyal-2005/library-management-system)
+
+---
+
+### 👥 Student Management System
+**Educational Institution Platform**
+
+Comprehensive solution for managing student records, academic information, and institutional operations.
+
+**Technologies:** `Database Design` `System Architecture` `Relational Design`
+
+[🔗 View Repository](https://github.com/Joyal-2005/Student-Management-System)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics & Activity
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joyal-2005&theme=github_dark&hide_border=true&show_icons=true&icon_color=0e75b6&text_color=e0e0e0&title_color=00d1b2)](https://github.com/Joyal-2005)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joyal-2005&theme=github_dark&hide_border=true&layout=compact&text_color=e0e0e0&title_color=00d1b2)](https://github.com/Joyal-2005)
+
+</div>
+
+---
+
+## 🎓 Core Competencies
+
+<div align="center">
+
+| **Specialty** | **Details** |
+|:---:|:---|
+| **🏗️ Full-Stack Development** | End-to-end application development from database architecture to responsive UI implementation |
+| **🔌 IoT & Embedded Systems** | Hardware integration, sensor data management, real-time system processing, microcontroller programming |
+| **💾 Database Architecture** | Relational database design, SQL query optimization, data integrity management, trigger automation |
+| **⚙️ Backend Development** | RESTful API design, server-side logic, data processing, system scalability |
+| **🎨 Frontend Development** | Responsive UI/UX design, Bootstrap frameworks, cross-device compatibility |
+| **🔧 System Design** | Scalable architecture, problem-solving methodology, technical implementation strategy |
+
+</div>
+
+---
+
+## 🚀 Current Focus & Learning
+
+<div align="center">
+
+```
+🔨 Building                              📚 Learning                          💡 Passionate About
+├─ Scalable backend systems              ├─ Advanced Node.js patterns        ├─ IoT innovation
+├─ IoT solutions                         ├─ Database optimization            ├─ Real-world problem solving
+├─ Responsive web apps                  ├─ Modern frameworks                ├─ Clean architecture
+└─ Intelligent systems                  └─ Cloud technologies               └─ Mentoring others
+```
+
+</div>
+
+---
+
+## 🌟 Why Work With Me?
+
+<div align="center">
+
+| 💼 | 🚀 | 🎯 | 💡 |
+|:---:|:---:|:---:|:---:|
+| **Professional** | **Innovative** | **Focused** | **Creative** |
+| Delivers production-ready code | Brings fresh ideas to problems | Committed to excellence | Thinks outside the box |
+| Strong foundation in best practices | Stays current with tech | Attention to detail | Solves complex challenges |
+| Proven track record | Explores cutting-edge solutions | Goal-oriented approach | Unique perspectives |
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+### Open to Exciting Opportunities:
+
+- 🔧 **Freelance Projects** – Full-stack, IoT, or database work
+- 🤝 **Collaborations** – Open-source or innovative ideas
+- 💬 **Technical Discussions** – Architecture, design, best practices
+- 🎓 **Mentoring** – Sharing knowledge with aspiring developers
+- 📞 **Consulting** – System design and technical guidance
+
+### 📬 Get In Touch
+
+**GitHub:** [github.com/Joyal-2005](https://github.com/Joyal-2005)  
+**Email:** [joyalaugustin17@gmail.com](mailto:joyalaugustin17@gmail.com)  
+**Open to:** Partnership, collaboration, technical discussions  
+
+</div>
+
+---
+
+## 📝 Latest Projects & Updates
+
+> Check out my repositories for the latest projects, code samples, and technical implementations. Each project includes detailed documentation and demonstrates best practices in software architecture.
 
 ---
 
 <div align="center">
 
-**Built with passion for elegant code and innovative solutions** ✨
+### ✨ *Let's build something extraordinary together* ✨
+
+**"The best way to predict the future is to invent it."** – Alan Kay
+
+---
+
+<sub>⭐ If you find my work interesting, please consider starring the repositories that inspire you!</sub>
+
+**Last Updated:** September 2026 | [View All Repositories](https://github.com/Joyal-2005?tab=repositories)
 
 </div>
