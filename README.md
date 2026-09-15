@@ -1,7 +1,7 @@
 # 
 <div align="center">
 
-# 🚀 JOYAL AUGUSTIN
+#  JOYAL AUGUSTIN
 
 **Software Developer | ServiceNow Developer | IoT Enthusiast**
 
