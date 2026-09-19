@@ -1,158 +1,127 @@
-# 
 <div align="center">
 
-#  JOYAL AUGUSTIN
+# 👋 Hi, I'm Joyal Augustin
 
-**Software Developer | ServiceNow Developer | IoT Enthusiast**
+### Software Developer · ServiceNow Developer · IoT Enthusiast
 
-*ECE Final Year • ServiceNow CSA & CAD Certified*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Building+practical+software+solutions;ServiceNow+CSA+%26+CAD+Certified;Exploring+backend%2C+automation+%26+IoT" alt="Typing introduction" />
 
----
+<br />
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)](https://github.com/Joyal-2005)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/Joyal-2005)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://github.com/Joyal-2005)
-[![ServiceNow](https://img.shields.io/badge/ServiceNow-00A699?style=flat-square&logo=servicenow&logoColor=white)](https://github.com/Joyal-2005)
-[![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=mysql&logoColor=white)](https://github.com/Joyal-2005)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/Joyal-2005)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://github.com/Joyal-2005)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/Joyal-2005)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Joyal-2005)
-
-<br/>
-
-[**LinkedIn**](https://linkedin.com/in/joyal-augustin) • [**LeetCode**](https://leetcode.com) • [**HackerRank**](https://hackerrank.com) • [**GitHub**](https://github.com/Joyal-2005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-14532D?style=for-the-badge&logo=linkedin&logoColor=22C55E)](https://linkedin.com/in/joyal-augustin)
+[![GitHub](https://img.shields.io/badge/GitHub-14532D?style=for-the-badge&logo=github&logoColor=22C55E)](https://github.com/Joyal-2005)
+[![Email](https://img.shields.io/badge/Email-14532D?style=for-the-badge&logo=gmail&logoColor=22C55E)](mailto:joyalaugustin17@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## 🌿 About Me
 
-Building practical software solutions with **Java**, **JavaScript**, **ServiceNow** and **IoT**. Interested in backend development, automation, problem solving and real-world technology.
+- 🎓 ECE final-year student, graduating in **2027** with a **CGPA of 8.11 / 10**
+- 💼 **ServiceNow Certified System Administrator (CSA)** and **Certified Application Developer (CAD)**
+- 🔭 Currently building practical solutions with **Java, JavaScript, ServiceNow and IoT**
+- 🌱 Interested in backend development, workflow automation and real-world technology
+- ⚡ I enjoy turning ideas into reliable, useful software
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| **Education** | **CGPA** | **Certifications** | **Focus** |
-| B.E. ECE (2027) | 8.11 / 10 | CSA + CAD | Backend • Automation • IoT |
+### Languages & Web
+
+![Java](https://img.shields.io/badge/Java-166534?style=for-the-badge&logo=openjdk&logoColor=22C55E)
+![JavaScript](https://img.shields.io/badge/JavaScript-166534?style=for-the-badge&logo=javascript&logoColor=22C55E)
+![C](https://img.shields.io/badge/C-166534?style=for-the-badge&logo=c&logoColor=22C55E)
+![HTML5](https://img.shields.io/badge/HTML5-166534?style=for-the-badge&logo=html5&logoColor=22C55E)
+![CSS3](https://img.shields.io/badge/CSS3-166534?style=for-the-badge&logo=css3&logoColor=22C55E)
+![SQL](https://img.shields.io/badge/SQL-166534?style=for-the-badge&logo=mysql&logoColor=22C55E)
+
+### Platforms & Tools
+
+![ServiceNow](https://img.shields.io/badge/ServiceNow-166534?style=for-the-badge&logo=servicenow&logoColor=22C55E)
+![Arduino](https://img.shields.io/badge/Arduino-166534?style=for-the-badge&logo=arduino&logoColor=22C55E)
+![Git](https://img.shields.io/badge/Git-166534?style=for-the-badge&logo=git&logoColor=22C55E)
+![GitHub](https://img.shields.io/badge/GitHub-166534?style=for-the-badge&logo=github&logoColor=22C55E)
+![VS Code](https://img.shields.io/badge/VS_Code-166534?style=for-the-badge&logo=visual-studio-code&logoColor=22C55E)
+![MySQL](https://img.shields.io/badge/MySQL-166534?style=for-the-badge&logo=mysql&logoColor=22C55E)
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Featured Projects
 
-<div align="center">
-
-### **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-
-### **Web Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **ServiceNow Platform**
-![ServiceNow](https://img.shields.io/badge/ServiceNow-00A699?style=for-the-badge&logo=servicenow&logoColor=white)
-![Flow Designer](https://img.shields.io/badge/Flow%20Designer-0078D4?style=for-the-badge)
-![Business Rules](https://img.shields.io/badge/Business%20Rules-FF6B6B?style=for-the-badge)
-![Service Catalog](https://img.shields.io/badge/Service%20Catalog-7B68EE?style=for-the-badge)
-
-### **IoT & Embedded**
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-A8B9CC?style=for-the-badge)
-
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-## ⭐ Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔄 Automated Network Request Management
 
-**ServiceNow enterprise automation platform**
-
-Automated network request intake, approval routing and automated notifications using ServiceNow platform capabilities.
+ServiceNow enterprise automation platform for request intake, approval routing and automated notifications.
 
 **Tech:** `ServiceNow` `JavaScript` `Flow Designer` `Business Rules`
 
-**Workflow:** Request → Automation → Approval → Notification
+[View repository →](https://github.com/Joyal-2005/Automated-Network-Request-Management---Servicenow)
 
-[🔗 View Repository](https://github.com/Joyal-2005/Automated-Network-Request-Management---Servicenow)
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🏛️ Temple Management System
 
-**Web application for community management**
+Community management web application for devotee registration, donation tracking and event scheduling.
 
-Complete solution for devotee registration, donation tracking and event/pooja scheduling with real-time notifications.
+**Tech:** `HTML5` `CSS3` `JavaScript` `SQL`
 
-**Tech:** `HTML5` `CSS3` `JavaScript` `SQL` `Database Design`
+[View repository →](https://github.com/Sanjai-Magilan/Temple_Web_App)
 
-**Workflow:** Registration → Management → Donation → Notification
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[🔗 View Repository](https://github.com/Sanjai-Magilan/Temple_Web_App)
+### 🛡️ IoT-Based Child Safety Monitoring
 
----
+Sensor-driven monitoring system for real-time event detection and automated emergency alerts.
 
-### 🛡️ IoT-Based Child Safety Monitoring System
+**Tech:** `Embedded C` `Arduino` `Sensors` `IoT`
 
-**Real-time sensor monitoring for emergency detection**
+</td>
+<td width="50%" valign="top">
 
-Sensor-driven monitoring system designed for real-time event detection and automated emergency alert responses.
+### 💡 What I Build
 
-**Tech:** `Embedded C` `Arduino` `Sensors` `IoT` `Real-time Systems`
+- Workflow automation
+- Backend applications
+- IoT monitoring systems
+- Useful tools for real-world problems
 
-**Workflow:** Sensors → Detection → Alert → Response
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💼 Experience
 
-### VLSI Intern
-**Tessolve — Taras Systems and Solutions**
+### VLSI Intern · Tessolve — Taras Systems and Solutions
 
 - Digital design verification using **Verilog HDL** and **SystemVerilog**
 - UVM testbench development and simulation
 
-**Tech:** `Verilog HDL` `SystemVerilog` `UVM` `Digital Design` `Verification`
+`Verilog HDL` `SystemVerilog` `UVM` `Digital Design` `Verification`
 
 ---
 
 ## 🏆 Certifications
 
-<div align="center">
-
-| | |
-|:---:|:---|
+| Platform | Certification |
+| :--- | :--- |
 | **ServiceNow** | Certified System Administrator (CSA) |
 | **ServiceNow** | Certified Application Developer (CAD) |
 | **NPTEL** | Cloud Computing |
-
-</div>
-
----
-
-## 🎯 Coding & Professional Links
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-
-</div>
 
 ---
 
@@ -160,9 +129,12 @@ Sensor-driven monitoring system designed for real-time event detection and autom
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joyal-2005&theme=github_dark&hide_border=true&show_icons=true&icon_color=00d1b2&text_color=e0e0e0&title_color=00A699)](https://github.com/Joyal-2005)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Joyal-2005&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=BBF7D0&ring_color=22C55E&include_all_commits=true" alt="Joyal's GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joyal-2005&layout=compact&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=BBF7D0" alt="Top languages" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joyal-2005&theme=github_dark&hide_border=true&layout=compact&text_color=e0e0e0&title_color=00A699)](https://github.com/Joyal-2005)
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Joyal-2005&hide_border=true&background=0D1117&ring=22C55E&fire=86EFAC&currStreakLabel=22C55E&sideLabels=BBF7D0&currStreakNum=F0FDF4&sideNums=F0FDF4&dates=86EFAC" alt="GitHub streak" />
 
 </div>
 
@@ -170,12 +142,11 @@ Sensor-driven monitoring system designed for real-time event detection and autom
 
 <div align="center">
 
-### Let's build something useful. 🚀
+### 💚 Let's build something useful together
 
-**[LinkedIn](https://linkedin.com) • [GitHub](https://github.com/Joyal-2005) • [LeetCode](https://leetcode.com) • [Email](mailto:joyalaugustin17@gmail.com)**
+[![LeetCode](https://img.shields.io/badge/LeetCode-14532D?style=for-the-badge&logo=leetcode&logoColor=22C55E)](https://leetcode.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-14532D?style=for-the-badge&logo=hackerrank&logoColor=22C55E)](https://hackerrank.com)
 
----
-
-*Last Updated: September 2026*
+📫 **[Connect with me on LinkedIn](https://linkedin.com/in/joyal-augustin)** · **[Explore my repositories](https://github.com/Joyal-2005?tab=repositories)**
 
 </div>
